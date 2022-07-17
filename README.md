@@ -1,2 +1,1 @@
-# MERVE SENA CINAR
-PATIKA.dev HTML Ödev1
+#Patika.dev HTML:Ödev1
