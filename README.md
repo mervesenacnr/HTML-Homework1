@@ -1,2 +1,2 @@
-# MerveSena-nar
+# MERVE SENA CINAR
 PATIKA.dev HTML Ödev1
