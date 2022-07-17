@@ -1,1 +1,1 @@
-#Patika.dev HTML:Ödev1
+Patika.dev ile Html öğreniyorum. Kurstaki ilk ödevim: kendi web sitemi oluşturuyorum.
